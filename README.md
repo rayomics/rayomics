@@ -2,7 +2,7 @@
 
 🎓 I'm biologist and currently a PhD candidate in Bioinformatics at the University of São Paulo (USP)
 
-🧬 My research focuses on using omics approaches to study DNA repair mechanisms in microorganisms
+🧬 My main goal is to study DNA repair mechanisms in microorganisms using different omics approaches
 
 💻 I mainly work with Python and Bash for data analysis
 
