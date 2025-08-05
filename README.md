@@ -1,9 +1,13 @@
-## Hi there 👋
+## Hey there, I'm Rayana Feltrin! 👋
+
+🎓 I'm biologist and currently a PhD candidate in Bioinformatics at the University of São Paulo (USP)
+
+🧬 My research focuses on using omics approaches to study DNA repair mechanisms in microorganisms
+
+💻 I mainly work with Python and Bash for data analysis
 
 <!--
 **rayomics/rayomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
