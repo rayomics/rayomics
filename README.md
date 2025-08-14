@@ -1,6 +1,6 @@
 ## Hey there, I'm Rayana Feltrin! 👋
 
-🎓 I'm biologist and currently a PhD candidate in Bioinformatics at the University of São Paulo (USP)
+🎓 I'm a biologist with a Master's degree in Biochemistry and currently a PhD candidate in Bioinformatics at the University of São Paulo (USP)
 
 🧬 My main goal is to study DNA repair mechanisms in microorganisms using different omics approaches
 
